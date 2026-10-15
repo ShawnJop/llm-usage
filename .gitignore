@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+*.spec
+
+# 测试与工具缓存
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# 编辑器与系统文件
+.vscode/
+.idea/
+.claude/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 本地配置、日志与诊断输出：可能含本机路径或账户信息
+settings.json
+*.log
+diagnose*.txt
+
+# 精灵图生成过程的中间产物（含本机路径），不随仓库发布
+pet-runs/

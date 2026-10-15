@@ -1,0 +1,4 @@
+PySide6>=6.7,<7
+requests>=2.32,<3
+truststore>=0.10,<1
+cryptography>=42,<46

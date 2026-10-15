@@ -1,0 +1,11 @@
+{
+  "five_hour": {
+    "utilization": 14,
+    "resets_at": "2026-09-08T18:00:00+08:00"
+  },
+  "seven_day": {
+    "utilization": 36,
+    "resets_at": "2026-09-13T09:00:00+08:00"
+  },
+  "plan": "pro"
+}

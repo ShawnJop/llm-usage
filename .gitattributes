@@ -1,0 +1,16 @@
+* text=auto
+
+# Windows 脚本必须保持 CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+
+*.png binary
+*.gif binary
+*.webp binary
+*.ico binary
